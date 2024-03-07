@@ -12,16 +12,16 @@ This weather website provides extensive and in-depth weather information, not on
 ### Installation
 * Clone the repository
 ```bash
-$ git clone https://github.com/Kevinsweep/wishlist.git
+ git clone https://github.com/Kevinsweep/wishlist.git
 ```
 * Install dependencies
 ```bash
-$ npm install
+ npm install
 ```
 * install `dfx`
 ```bash
-$ DFX_VERSION=0.15.0 sh -ci "$(curl -fsSL https://sdk.dfinity.org/install.sh)"
-$ dfx start --background
+ DFX_VERSION=0.15.0 sh -ci "$(curl -fsSL https://sdk.dfinity.org/install.sh)"
+ dfx start --background
 ```
 
 
